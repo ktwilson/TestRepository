@@ -53,6 +53,7 @@ namespace TestProject
             app.UseCookiePolicy();
 
             app.UseMvc();
+            // testing change
         }
     }
 }
